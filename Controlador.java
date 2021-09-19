@@ -18,6 +18,5 @@ class Controlador {
 
         Vista vs = new Vista();
         vs.vista();
-
     }
 }
